@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zodiac-011
-- 👀 I’m interested in programing languages and qa.
+- 👀 I’m interested in programing languages and cybersecurity.
 - 🌱 I’m currently learning JavaScript
 - 💞️ 
 - 📫 
