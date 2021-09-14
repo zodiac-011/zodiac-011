@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zodiac-011
+- 👋 Hi, I’m Alec
 - 👀 I’m interested in programing languages and cybersecurity.
 - 🌱 I’m currently learning JavaScript
 - 💞️ 
